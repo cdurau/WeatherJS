@@ -1,0 +1,27 @@
+/* Temp Min Max */
+i.fa-temperature-low {
+  color: #4da6ff;
+}
+i.fa-temperature-high {
+  color: #ff531a;
+}
+
+/* Humidity */
+i.fa-tint {
+  color: #39f;
+}
+
+/* Wind */
+i.fa-wind {
+  color: #bbb;
+}
+
+/* Sunrise / Sunset */
+i.fa-sun {
+  color: #ffdd42;
+  font-size: 1.125rem;
+}
+i.fa-arrow-up,
+i.fa-arrow-down {
+  font-size: .8rem;
+}
