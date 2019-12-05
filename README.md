@@ -1,4 +1,4 @@
 # WeatherJS
-Preview: [Show me the current weather](https://jolly-mestorf-bec256.netlify.com/)
+Preview: [Show the current weather](https://jolly-mestorf-bec256.netlify.com/)
 
-Shows the current weather in your Webbrowser
+Displays the current weather in your Webbrowser
