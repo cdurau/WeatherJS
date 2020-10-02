@@ -1,4 +1,4 @@
 # WeatherJS
-Preview: [Show the current weather](https://jolly-mestorf-bec256.netlify.com/)
+Preview: [Display the current weather](https://jolly-mestorf-bec256.netlify.com/)
 
-Display the current weather in your city
+Do i need an umbrella or my sun glasses? :-)
